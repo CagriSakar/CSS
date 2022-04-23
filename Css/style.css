@@ -1,0 +1,64 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    margin:0; padding:0;
+    background-image: url(/img/yildiz.png.crdownload) ;
+}
+
+.wrap {
+    width:980px;
+    margin:0 auto;
+    background: rgb(50,50,53);
+    background: linear-gradient(180deg, rgba(50,50,53,1) 0%, rgba(106,94,102,1) 25%, rgba(219,186,192,1) 60%);
+    
+}
+
+.header { 
+    height:150px;
+    margin-bottom:10px;
+    text-align: center;
+    font-size: 40px;
+    color: bisque;
+    
+}
+
+.header h1{
+    position: relative;
+    top: 30px;
+}
+
+.header img{
+    width: 120px;
+    margin-top: -140px;
+    float: left;
+}
+
+.nav{
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+.nav a{
+    text-decoration: none;
+    color:darksalmon;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+
+}
+
+.article {
+    width:980px;
+    height-min:610px;
+
+}
+
+.footer {
+    height: 50px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+hr{
+    color: blueviolet;
+}
